@@ -19,10 +19,10 @@ La vida se visualiza como un fondo de agua que va disminuyendo hasta llegar al e
 En cada nivel aumenta la cantidad de tiempo a sobrevivir, disminuye la cantidad de vida restante de supervivencia y la cantidad spawn de Runas.
 
 Los cuatro tipos de Runas son:
-  - Aumentar vida
-  - Disminuir vida
-  - Aumentar tiempo de supervivencia
-  - Disminuir tiempo de supervivencia
+  - Aumentar vida (color verde)
+  - Disminuir vida (color naranja)
+  - Aumentar tiempo de supervivencia (color amarillo)
+  - Disminuir tiempo de supervivencia (color azulado)
 
 ### Arte
 El arte 2D está realizado por un amigo que se desarrolla como artista digital (instagram: @introvernauta)
@@ -48,7 +48,7 @@ El juego está compilado para plataforma __Windows__.
 Para probarlo, debes descargar el repositorio como Zip, descomprimirlo y ejecutar __Build/PickRunes.exe__.
 
 ## Expectativas
-Se aceptan feedback de mecánicas y aspectos de UX/UI.
+Se aceptan feedback de mecánicas, aspectos de UX/UI y animaciones.
 
 No tiene fines comerciales, sino aplicar prácticas en el mundo de vodeojuegos, compartir conocimientos y experiencias.
 
