@@ -24,6 +24,9 @@ Los cuatro tipos de Runas son:
   - Aumentar tiempo de supervivencia
   - Disminuir tiempo de supervivencia
 
+### Arte
+El arte 2D está realizado por un amigo que se desarrolla como artista digital (instagram: @introvernauta)
+
 ## Game Development
 
 ### Características de Motor
@@ -45,16 +48,18 @@ El juego está compilado para plataforma __Windows__.
 Para probarlo, debes descargar el repositorio como Zip, descomprimirlo y ejecutar __Build/PickRunes.exe__.
 
 ## Expectativas
-El juego cuenta con un diseño básico 2D realizado por un amigo que se desarrolla como artista digital.
-
 Se aceptan feedback de mecánicas y aspectos de UX/UI.
 
 No tiene fines comerciales, sino aplicar prácticas en el mundo de vodeojuegos, compartir conocimientos y experiencias.
+
+Se ha eliminado partes de código y sprites por reserva de derechos de autor.
 
 ## Proximamente
 Convertir a proyecto Andriod.
 
 Se espera agregar Animaciones de UI y de Sprites.
+
+Mejorar el Level Design.
 
 ## Contáctame
 Puedes enviarme mensajes de correo electrónico a __mmchamoo@gmail.com__ o agregarme a [LinkedIn](https://www.linkedin.com/in/mauricio-manuel-chamorro).
