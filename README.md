@@ -1,8 +1,7 @@
-# PickRunes :pushpin:
+# PickRunes ![ScreenShot](https://github.com/MauriChamorro/PickRunes/blob/master/Assets/Sprites/image_icon_pickrunes_sC1_1.ico)
 
 ## Introducción
 Este juego fue realizado como **Proyecto** 2D de entrega del trayecto profesional Desarrollo de Videojuegos con Unity del instituto [Image Campus](https://www.imagecampus.edu.ar).
-
 ## Game Design
 
 ### Plataforma target
