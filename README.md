@@ -4,9 +4,6 @@
 Este juego fue realizado como **Proyecto** 2D de entrega del trayecto profesional Desarrollo de Videojuegos con Unity del instituto [Image Campus](https://www.imagecampus.edu.ar).
 ## Game Design
 
-### Plataforma target
-El juego fue pensado para plataformas __Mobile__ desde su inicio, pero para fines de entrega y comienzos en la industria, se generó y entregó el compilado para plataformas de __escritorio__.
-
 ### Concepto general
 Es una juego SinglePlayer, en el que debes clickear sobre objetos llamados Runas con el fin sobrevivir durante un tiempo determinado. 
 
@@ -26,13 +23,12 @@ Los cuatro tipos de Runas son:
 ### Arte
 El arte 2D está realizado por un amigo que se desarrolla como artista digital (instagram: @introvernauta)
 
+### Plataforma target
+El juego fue pensado para plataformas __Mobile__ desde su inicio, pero para fines de entrega y comienzos en la industria, se generó y entregó el compilado para plataformas de __escritorio__.
+
+Actualmente esta exportado además para WebGL.
+
 ## Game Development
-
-### Características de Motor
-- UI Canvas.
-- No se utilizó Físicas para movimientos de cualquier objeto.
-
-### Software
 - Patrones: 
   - Singleton: un AudioSource que no se destruye entre escenas. 
 - Controladores: GameController, CanvasController, SoundController, etc.
@@ -40,11 +36,12 @@ El arte 2D está realizado por un amigo que se desarrolla como artista digital (
 - Pooling de Runas.
 - Ubicación aleatoria de Runas en puntos de Spawn.
 - Herencia e Interfaces para trayectorias de Runas.
+- Animaciones
 
 ## Prueba el juego y envía feedback
-El juego está compilado para plataforma __Windows__.
+El juego está compilado para plataforma __Windows__ y __WebGL__
 
-Para probarlo, debes descargar el repositorio como Zip, descomprimirlo y ejecutar __Build/PickRunes.exe__.
+Juego en WebGL: https://maurichamorro.github.io/RunesWebGL/index
 
 ## Expectativas
 Se aceptan feedback de mecánicas, aspectos de UX/UI y animaciones.
@@ -53,12 +50,7 @@ No tiene fines comerciales, sino aplicar prácticas en el mundo de vodeojuegos, 
 
 Se ha eliminado partes de código y sprites por reserva de derechos de autor.
 
-## Proximamente
-Convertir a proyecto Andriod.
-
-Se espera agregar Animaciones de UI y de Sprites.
-
-Mejorar el Level Design.
+Mejorar en Level Design.
 
 ## Contáctame
 Puedes enviarme mensajes de correo electrónico a __mmchamoo@gmail.com__ o agregarme a [LinkedIn](https://www.linkedin.com/in/mauricio-manuel-chamorro).
