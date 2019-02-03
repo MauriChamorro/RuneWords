@@ -22,5 +22,7 @@ function UnityProgress(gameInstance, progress) {
   gameInstance.progress.full.style.width = 100 * progress + '%'
   gameInstance.progress.empty.style.width = 100 * (1 - progress) + '%'
 
-  if (progress == 1) gameInstance.logo.style.display = gameInstance.progress.style.display = 'none'
+  if (progress == 1) 
+	  gameInstance.logo.style.display = gameInstance.progress.style.display = 'none'
+																				   
 }
