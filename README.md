@@ -1,4 +1,4 @@
-# PickRunes ![ScreenShot](https://github.com/MauriChamorro/PickRunes/blob/master/Assets/Sprites/image_icon_pickrunes_sC1_1.ico)
+# RuneWords
 
 ## Introducción
 Este juego fue realizado como **Proyecto** 2D de entrega del trayecto profesional Desarrollo de Videojuegos con Unity del instituto [Image Campus](https://www.imagecampus.edu.ar).
@@ -26,7 +26,7 @@ El arte 2D está realizado por un amigo que se desarrolla como artista digital (
 ### Plataforma target
 El juego fue pensado para plataformas __Mobile__ desde su inicio, pero para fines de entrega y comienzos en la industria, se generó y entregó el compilado para plataformas de __escritorio__.
 
-Actualmente esta exportado además para WebGL.
+Actualmente esta exportado para __WebGL__ y lo seguirá siendo.
 
 ## Game Development
 - Patrones: 
@@ -38,17 +38,13 @@ Actualmente esta exportado además para WebGL.
 - Herencia e Interfaces para trayectorias de Runas.
 - Animaciones
 
-## Prueba el juego y envía feedback
-El juego está compilado para plataforma __Windows__ y __WebGL__
+Se ha eliminado partes de código y sprites por reserva de derechos de autor.
 
-Juego en WebGL: https://maurichamorro.github.io/RunesWebGL/index
+## Prueba el juego y envía feedback
+El juego está compilado para plataforma __WebGL__: https://maurichamorro.github.io/RuneWords/
 
 ## Expectativas
-Se aceptan feedback de mecánicas, aspectos de UX/UI y animaciones.
-
 No tiene fines comerciales, sino aplicar prácticas en el mundo de vodeojuegos, compartir conocimientos y experiencias.
-
-Se ha eliminado partes de código y sprites por reserva de derechos de autor.
 
 Mejorar en Level Design.
 
