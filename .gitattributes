@@ -12,6 +12,8 @@
 ###############################################################################
 *.cs linguist-language=C#
 *.aspx linguist-language=false
+*.css linguist-language=false
+
 
 ###############################################################################
 # Set the merge driver for project and solution files
