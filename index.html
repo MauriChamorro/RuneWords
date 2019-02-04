@@ -48,7 +48,14 @@
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      const gameInstance = UnityLoader.instantiate('gameContainer', 'Build/Build.json', { onProgress: UnityProgress })
+      const gameInstance = UnityLoader.instantiate('gameContainer', 'Build/Build.json', 
+	  { onProgress: UnityProgress,
+		Module: {
+		onRuntimeInitialized: function(){
+		alert('hiiii');
+			}
+		}
+	  })
       document.querySelector('.fullscreen').addEventListener('click', () => gameInstance.SetFullscreen(1))
     </script>
   </body>
