@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <link rel="shortcut icon" href="TemplateData/favicon.ico" />
-    <link rel="stylesheet" href="TemplateData/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
 
   <body>
@@ -52,7 +52,15 @@
 	  { onProgress: UnityProgress,
 		Module: {
 		onRuntimeInitialized: function(){
-		alert('hiiii');
+		
+		var gameContainer = document.getElementById('gameContainer');
+		
+		gameContainer.style.border = '10px solid antiquewhite';
+		
+		gameContainer.style.borderRadius = '10px';
+		
+		gameContainer.style.transition = 'all 1s ease-in 0.3s';
+		
 			}
 		}
 	  })
